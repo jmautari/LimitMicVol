@@ -5,9 +5,9 @@ microphone volume over a configurable maximum value.
 
 [Download x64 version](https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe)
 
-MD5: bae06ec9676a58ace3f98779812f80f9  
-SHA1: 875f709f0673f79e93d71ff891d4bd5ea474eb25  
-SHA-256: d9b604280418c5b2588af3b9d1df230557b7cf4acd182891b6502cf1277674c4
+MD5: 3a191f85cc1fd564a63d325cc95b8a04  
+SHA1: 90c07318cda1082ef3bc8af4677525c27ecb8381  
+SHA-256: d7c20772c9592a45d497661eb0ba97b40e8ec6300d4c04733bdfe647cac03a1d
 
 ### Why?
 
