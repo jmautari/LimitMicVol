@@ -38,9 +38,10 @@ If everything goes well a new task will be added to Task Scheduler to launch
 
 [Download LaunchAtLogon.exe x64 version][2]
 
-MD5: bffa5be915b18bd505fb8f6e8ec34713  
-SHA1: 09ddc6fc9a626acf88ebd1cfeb4db65b1f6b7b76  
-SHA256: c93313c31c9c6b19944b4c8056479b1c66a5cd873026e148ddc40ab224c433e9
+MD5: c52c71742fca8e663d8735a0b1c86a19  
+SHA1: ab6c49174426f4dc44fc83b06cd2c56def93a50a  
+SHA256: de16f1c29b6d22f3ab71f071d8122d937cf814056a3c165682848f04ee98b311
+
 
 [1]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe
 [2]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LaunchAtLogon.exe

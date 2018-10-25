@@ -171,17 +171,15 @@ bool TaskSchedulerTask::Create(LPCWSTR taskName, LPCWSTR program,
 
     //  ------------------------------------------------------
     //  Save the task in the root folder.
-    CComPtr<IRegisteredTask> pRegisteredTask;
-
     hr = pRootFolder->RegisterTaskDefinition(
       _bstr_t(taskName),
       pTask,
       TASK_CREATE_OR_UPDATE,
-      _variant_t(L"Builtin\\Administrators"),
+      _variant_t(L"Builtin\\Users"),
       _variant_t(),
       TASK_LOGON_GROUP,
       _variant_t(L""),
-      &pRegisteredTask);
+      nullptr);
     if (FAILED(hr))
     {
       break;
