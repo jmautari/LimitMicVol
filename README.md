@@ -3,7 +3,7 @@
 Very simple tool to prevent programs from increasing the default
 microphone volume over a configurable maximum value.
 
-[Download x64 version](https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe)
+[Download LimitMicVol.exe x64 version][1]
 
 MD5: 3a191f85cc1fd564a63d325cc95b8a04  
 SHA1: 90c07318cda1082ef3bc8af4677525c27ecb8381  
@@ -29,4 +29,18 @@ configuration file at `%APPDATA%\LimitMicVol\config.ini`
 
 ### How to make the program to start automatically at logon?
 
-The easiest way is by using Windows Task Scheduler.
+Download `LaunchAtLogon.exe` (source code is also part of the
+project) at the same directory where `LimitMicVol.exe` is saved and launch it
+from a command prompt window.
+
+If everything goes well a new task will be added to Task Scheduler to launch
+`LimitMicVol.exe` at user logon time.
+
+[Download LaunchAtLogon.exe x64 version][2]
+
+MD5: bffa5be915b18bd505fb8f6e8ec34713  
+SHA1: 09ddc6fc9a626acf88ebd1cfeb4db65b1f6b7b76  
+SHA256: c93313c31c9c6b19944b4c8056479b1c66a5cd873026e148ddc40ab224c433e9
+
+[1]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe
+[2]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LaunchAtLogon.exe
