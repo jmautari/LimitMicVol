@@ -42,12 +42,6 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="LimitMicVol.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="resources\volume.ico">
       <Filter>Resource Files</Filter>
     </Image>

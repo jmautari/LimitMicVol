@@ -165,9 +165,7 @@
     <ResourceCompile Include="LimitMicVol.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="LimitMicVol.ico" />
     <Image Include="resources\volume.ico" />
-    <Image Include="small.ico" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
