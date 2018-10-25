@@ -30,9 +30,3 @@ configuration file at `%APPDATA%\LimitMicVol\config.ini`
 ### How to make the program to start automatically at logon?
 
 The easiest way is by using Windows Task Scheduler.
-
-### The program looks ugly!
-
-Yes, the functionality is there and that is what matters to me.
-Ok, just kidding... I may make it prettier later when I have time
-and inspiration for it. For now, that's what it is!
