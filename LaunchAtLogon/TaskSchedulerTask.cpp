@@ -127,14 +127,6 @@ bool TaskSchedulerTask::Create(LPCWSTR taskName, LPCWSTR program,
       break;
     }
 
-    //  Define the user.  The task will execute when the user logs on.
-    //  The specified user must be a user on this computer.  
-    //hr = pLogonTrigger->put_UserId(_bstr_t(L"MR-PC\\MR"));
-    if (FAILED(hr))
-    {
-      break;
-    }
-
     //  ------------------------------------------------------
     //  Add an Action to the task.
     CComPtr<IActionCollection> pActionCollection;
