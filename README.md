@@ -3,6 +3,12 @@
 Very simple tool to prevent programs from increasing the default
 microphone volume over a configurable maximum value.
 
+[Download x64 version](https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe)
+
+MD5: 5bba3631b428c9580be96924e117751b  
+SHA1: 683C97DA3618FC42AC53A15A0075E0748EAD88FA  
+SHA-256: 863C194D8E82A5B1BF952275D47DB14201599BEEA35ED51B450D21F994BB84B4
+
 ### Why?
 
 If you have a microphone that gets very loud even with a fairly
