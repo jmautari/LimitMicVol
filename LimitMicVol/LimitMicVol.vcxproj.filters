@@ -48,5 +48,8 @@
     <Image Include="LimitMicVol.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="resources\volume.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
