@@ -7,6 +7,9 @@ end_of_line=crlf
 insert_final_newline=true
 trim_trailing_whitespace=true
 
+[*.{h,c,cpp}]
+charset=utf-8-bom
+
 [*.proj]
 indent_style=tab
 indent_size=2
