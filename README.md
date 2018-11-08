@@ -17,7 +17,7 @@ over Skype or other Webrtc apps because they think your
 microphone volume should be increased, sometimes for absolutely
 no reason...
 
-### What this tool does?
+### What does this tool do?
 
 It will run in the background and will query the microphone
 volume every 1.5 seconds; whenever the volume is higher than a
