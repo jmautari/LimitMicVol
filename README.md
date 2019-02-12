@@ -5,8 +5,8 @@ microphone volume over a configurable maximum value.
 
 [Download LimitMicVol.exe x64 version][1]
 
-MD5: 65c02dd55222f752f0fe93a2aed6db6f
-SHA1: 41e4e072e05286c2ea35bbb0356e082311d30906
+MD5: 65c02dd55222f752f0fe93a2aed6db6f  
+SHA1: 41e4e072e05286c2ea35bbb0356e082311d30906  
 SHA256: 9a368e79aea2cab7d6d1fa70500f24bbe7e01fae715a4fdc573245154431f716
 
 ### Why?
@@ -38,8 +38,8 @@ If everything goes well a new task will be added to Task Scheduler to launch
 
 [Download LaunchAtLogon.exe x64 version][2]
 
-MD5: 1ed04df5a252d2c37fd67df34b7b041e
-SHA1: b1397d9afc2d3d6d1b8daab9c044758ce10c7393
+MD5: 1ed04df5a252d2c37fd67df34b7b041e  
+SHA1: b1397d9afc2d3d6d1b8daab9c044758ce10c7393  
 SHA256: b5c137c9fbc0e68610e369f22fb374b1fdb7a99dba929b791994f0b87bbd2c94
 
 [1]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe
