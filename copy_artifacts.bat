@@ -1,0 +1,1 @@
+xcopy .\x64\release\*.exe .\release-x64\ /y

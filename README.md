@@ -5,9 +5,9 @@ microphone volume over a configurable maximum value.
 
 [Download LimitMicVol.exe x64 version][1]
 
-MD5: 070b1dc73405ebfcee0f55eca2d62749  
-SHA1: 7951f27489ae10b5ce66c00e2bf10ea0ac7f7cb6  
-SHA-256: 71fa4da5ed45293e8bcfa08ebba92cfb6c8189e22546b5bd16d12ef4619bb9db
+MD5: 65c02dd55222f752f0fe93a2aed6db6f
+SHA1: 41e4e072e05286c2ea35bbb0356e082311d30906
+SHA256: 9a368e79aea2cab7d6d1fa70500f24bbe7e01fae715a4fdc573245154431f716
 
 ### Why?
 
@@ -38,9 +38,9 @@ If everything goes well a new task will be added to Task Scheduler to launch
 
 [Download LaunchAtLogon.exe x64 version][2]
 
-MD5: 795fd22e2918608c60bec76563a8eb34  
-SHA1: 461a97be41621bb225bd232a80e8d9c275af5e7f  
-SHA256: bbb5a2ffcab740b3eb33f73e65b794d41873ad3f351619c80f22f30d9c9a141b
+MD5: 1ed04df5a252d2c37fd67df34b7b041e
+SHA1: b1397d9afc2d3d6d1b8daab9c044758ce10c7393
+SHA256: b5c137c9fbc0e68610e369f22fb374b1fdb7a99dba929b791994f0b87bbd2c94
 
 [1]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LimitMicVol.exe
 [2]: https://github.com/jmautari/LimitMicVol/raw/master/release-x64/LaunchAtLogon.exe
